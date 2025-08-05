@@ -10,8 +10,8 @@
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
-    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-52B8D9?style=flat-square&logo=scikit-learn&logoColor=23F7931E"/>
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat-square&logo=Matplotlib&logoColor=black"/>
+    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%230055A9?style=flat-square&logo=matplotlib&logoColor=white"/>
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"/>
     <img alt="Scrapy" src="https://img.shields.io/badge/scrapy-%2360a839?style=flat-square&logo=scrapy&logoColor=d1d2d3"/>
     <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=%white"/>
