@@ -13,6 +13,7 @@
     <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%230055A9?style=flat-square&logo=matplotlib&logoColor=white"/>
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+    <img alt="NLTK" src="https://img.shields.io/badge/NLTK-%23007C9D?style=flat-square&logo=nltk&logoColor=white"/>
     <img alt="Scrapy" src="https://img.shields.io/badge/scrapy-%2360a839?style=flat-square&logo=scrapy&logoColor=d1d2d3"/>
     <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=%white"/>
     <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white" />
