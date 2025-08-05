@@ -22,6 +22,10 @@
     <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white"/>
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt=" HuggingFace" src="https://img.shields.io/badge/-HuggingFace-525252?style=flat-square&logo=HuggingFace&logoColor=F7ED28" />
+   <img alt="NLTK" src="https://img.shields.io/badge/NLTK-%23007C9D?style=flat-square&logo=nltk&logoColor=white"/>
+<img alt="Datetime" src="https://img.shields.io/badge/Datetime-%230071B5?style=flat-square&logo=python&logoColor=white"/>
+<img alt="smolagent" src="https://img.shields.io/badge/smolagent-%23FF6B6B?style=flat-square&logo=awesome-lists&logoColor=white"/>
+<img alt="AI Agent" src="https://img.shields.io/badge/AI_Agent-%236E5494?style=flat-square&logo=ai&logoColor=white"/>
     <img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?style=flat-square&logo=ollama&logoColor=000" />
     <img alt="langchain" src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
     <img alt="R" src="https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=R&logoColor=white"/> 
