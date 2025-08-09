@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="cover.png" alt="logo" />
+    <img src="github cover.png" alt="logo" />
 </p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!  Nice to see you. I'm Sara.</h1>
