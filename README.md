@@ -55,15 +55,18 @@
      <img alt="Perplexity" src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F" />
      <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-🔗 &nbsp;**Connect with me**
+
+
+
+## 🤝 Let's Collaborate On  
+- Cutting-edge **RAG implementations**  
+- LLM fine-tuning & optimization projects  
+- NLP research with real-world impact  
+
+
+📫 &nbsp;**Reach Me**:
 <p align="left">
 <a href="https://www.linkedin.com/in/sadrjahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="[https://instagram.com/gautamkrishnar](https://www.instagram.com/sara_sadr_jahani?igsh=bHc1OTV3Nno5eHpy&utm_source=qr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
