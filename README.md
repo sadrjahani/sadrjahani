@@ -5,7 +5,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!  Nice to see you. I'm Sara.</h1>
 
 
-<p>A trained academically in the field of data science, I have +7 years of NLP, LLM, and deep learning experience and am immensely enthusiastic about creating language-sensitive smart systems. I have contributed to developing scoring models based on Siamese BERT on the one hand, and incorporating Gemini into production pipelines on the other hand. I have experience working in Python and PyTorch, and present unstructured text in the form of valuable information using a language-oriented and investigation-based mindset.</h3>
+**Data Scientist & NLP Engineer** | LLM & RAG Specialist | Transforming Unstructured Data into Intelligent Systems  
+
+🔹 **Academically trained in Data Science** with 7+ years of hands-on experience in **NLP, LLMs (BERT, Gemini), and Deep Learning**  
+🔹 Built **production-grade AI systems** using Siamese BERT architectures and Gemini integration  
+🔹 **Core Stack**: Python, PyTorch, TensorFlow, LangChain, HuggingFace, Neo4J, GCP  
+🔹 **Research Focus**: Semantic Textual Similarity (STS), Retrieval-Augmented Generation (RAG), and Knowledge Graph-powered AI  
+
+
 <p>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
