@@ -5,7 +5,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!  Nice to see you. I'm Sara.</h1>
 
 
-**Data Scientist & NLP Engineer** | LLM & RAG Specialist | Transforming Unstructured Data into Intelligent Systems  
+**Data Scientist with a strong NLP/ML foundation who evolved into an AI/GenAI/LLM Engineer.**
 
 🔹 **Academically trained in Data Science** with 7+ years of hands-on experience in **NLP, LLMs (BERT, Gemini), and Deep Learning**  
 🔹 Built **production-grade AI systems** using Siamese BERT architectures and Gemini integration  
