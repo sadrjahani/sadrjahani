@@ -72,7 +72,7 @@
 ## 🤝 Let's Collaborate On  
 - Cutting-edge **RAG implementations**  
 - LLM fine-tuning & optimization projects  
-- NLP research with real-world impact  
+- AI Agents 
 
 
 📫 &nbsp;**Reach Me**:
