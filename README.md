@@ -21,6 +21,16 @@
                 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d6cd75dc373c9a393384fc478a37cefb981a8c00739b12d23060d950cca5c84f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65642f50616e6461735f6c6f676f2e737667"><img src="https://camo.githubusercontent.com/d6cd75dc373c9a393384fc478a37cefb981a8c00739b12d23060d950cca5c84f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65642f50616e6461735f6c6f676f2e737667" width="48" height="48" alt="Pandas" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
                 <br>Pandas
             </td>
+    <td align="center" width="96">
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8177320db93e701e61c7ce8fc63e8d72c85afd236e443cad627600abbe3fbcf7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079746f726368"><img src="https://camo.githubusercontent.com/8177320db93e701e61c7ce8fc63e8d72c85afd236e443cad627600abbe3fbcf7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079746f726368" width="48" height="48" alt="PyTorch" data-canonical-src="https://skillicons.dev/icons?i=pytorch" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+                <br>PyTorch
+            </td>
+    <td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="48" height="48" alt="Python" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
+                </a>
+                <br>Python
+            </td>
   <br/>
     <p>
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
