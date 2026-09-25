@@ -17,6 +17,10 @@
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+    <td align="center" width="96">
+                <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d6cd75dc373c9a393384fc478a37cefb981a8c00739b12d23060d950cca5c84f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65642f50616e6461735f6c6f676f2e737667"><img src="https://camo.githubusercontent.com/d6cd75dc373c9a393384fc478a37cefb981a8c00739b12d23060d950cca5c84f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65642f50616e6461735f6c6f676f2e737667" width="48" height="48" alt="Pandas" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+                <br>Pandas
+            </td>
   <br/>
     <p>
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
