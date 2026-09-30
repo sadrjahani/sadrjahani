@@ -27,6 +27,7 @@
       <img src="https://cdn.simpleicons.org/scrapy/60A839" height="48" alt="Scrapy" />
       <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
       <img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="48" height="48" alt="MySQL" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
+      <img src="https://camo.githubusercontent.com/5045ceef59e57d10080a7be92afe272464b1fb9f0c3c234fffa053de50daad9a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="48" height="48" alt="PostgreSQL" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
       <img src="https://cdn.simpleicons.org/trello/026AA7" height="48" alt="Trello" />
   </p>
 
