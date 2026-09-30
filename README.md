@@ -32,9 +32,9 @@
 
 
 <p>🧠 <b>LLM APIs I build with:</b> 
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" />Gemini, 
-    <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" />OpenAI,
-    <img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Anthropic Claude" /> Anthropic Claude — for RAG pipelines, agents, and evaluation workflows.
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="20" alt="Gemini" />Gemini, 
+    <img src="https://cdn.simpleicons.org/openai/412991" height="20" alt="OpenAI" />OpenAI,
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" height="20" alt="Anthropic Claude" /> Anthropic Claude — for RAG pipelines, agents, and evaluation workflows.
 </p>
 
 
