@@ -33,7 +33,7 @@
 
 <p>🧠 <b>LLM APIs I build with:</b> 
     <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="20" alt="Gemini" />Gemini, 
-    <img src="https://cdn.simpleicons.org/openai/412991" height="20" alt="OpenAI" />OpenAI,
+    <img src="https://camo.githubusercontent.com/e6b0be98557e1eafdb38e78f73a983820b202cb0867c9f9dc451d723233a7d1c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30342f436861744750545f6c6f676f2e737667" height="20" alt="OpenAI" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"> OpenAI,
     <img src="https://cdn.simpleicons.org/anthropic/D97757" height="20" alt="Anthropic Claude" /> Anthropic Claude — for RAG pipelines, agents, and evaluation workflows.
 </p>
 
