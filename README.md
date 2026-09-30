@@ -16,6 +16,7 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,r,selenium,postgres,mysql,mongodb,neo4j,docker,ubuntu,git,gcp,latex,jira&perline=10" alt="Main tech knowledge" />
   </p>
   <p align="left">
+      <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="48" height="48" alt="Python" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
     <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="48" alt="SciPy" />
     <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly" />
     <img src="https://cdn.simpleicons.org/scrapy/60A839" height="48" alt="Scrapy" />
