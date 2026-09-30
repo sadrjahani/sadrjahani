@@ -7,52 +7,25 @@
 
 **Data Scientist with a strong NLP/ML foundation who evolved into an AI/GenAI/LLM Engineer.**
 
-🔹 **Academically trained in Data Science** with 7+ years of hands-on experience in **NLP, LLMs (BERT, Gemini), and Deep Learning**  
-🔹 Built **production-grade AI systems** using Siamese BERT architectures and Gemini integration  
-🔹 **Core Stack**: Python, PyTorch, TensorFlow, LangChain, HuggingFace, Neo4J, GCP  
-🔹 **Research Focus**: Semantic Textual Similarity (STS), Retrieval-Augmented Generation (RAG), and Knowledge Graph-powered AI  
-
-
-<hr/>
+🔹 **Academically trained in Data Science** with 7+ years of hands-on experience in **NLP, LLMs (BERT, Gemini), and Deep Learning** 
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
-    <p>
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-        <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
-        <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
-        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="25" style="flat-square" /> </a> 
-        <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%230055A9?style=flat-square&logo=matplotlib&logoColor=white"/>
-        <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-        <img alt="NLTK" src="https://img.shields.io/badge/NLTK-%23007C9D?style=flat-square&logo=nltk&logoColor=white"/>
-        <img alt="Scrapy" src="https://img.shields.io/badge/scrapy-%2360a839?style=flat-square&logo=scrapy&logoColor=d1d2d3"/>
-        <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=%white"/>
-        <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white" />
-        <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-        <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-        <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white"/>
-        <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-        <img alt=" HuggingFace" src="https://img.shields.io/badge/-HuggingFace-525252?style=flat-square&logo=HuggingFace&logoColor=F7ED28" />
-       <img alt="NLTK" src="https://img.shields.io/badge/NLTK-%23007C9D?style=flat-square&logo=nltk&logoColor=white"/>
-    <img alt="Datetime" src="https://img.shields.io/badge/Datetime-%230071B5?style=flat-square&logo=python&logoColor=white"/>
-    <img alt="smolagent" src="https://img.shields.io/badge/smolagent-%23FF6B6B?style=flat-square&logo=awesome-lists&logoColor=white"/>
-    <img alt="AI Agent" src="https://img.shields.io/badge/AI_Agent-%236E5494?style=flat-square&logo=ai&logoColor=white"/>
-        <img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?style=flat-square&logo=ollama&logoColor=000" />
-        <img alt="langchain" src="https://img.shields.io/badge/Langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img alt="R" src="https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=R&logoColor=white"/> 
-        <img alt="ETL" src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?style=flat-square&logo=etl-logo&logoColor=fff" />
-        <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-        <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-        <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-        <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-        <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252" />
-        <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-        <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080?style=flat-square&logo=latex&logoColor=white"/>
-        <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white" />
-        <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" />   
-    </p>
+  <br/>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,matplotlib,r,selenium,postgres,mysql,mongodb,neo4j,docker,ubuntu,git,gcp,latex,jira&perline=10" alt="Main tech knowledge" />
+  </p>
+  <p align="left">
+    <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="48" alt="SciPy" />
+    <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly" />
+    <img src="https://cdn.simpleicons.org/scrapy/60A839" height="48" alt="Scrapy" />
+    <img src="https://cdn.simpleicons.org/keras/D00000" height="48" alt="Keras" />
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="HuggingFace" />
+    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain" />
+    <img src="https://cdn.simpleicons.org/ollama/888888" height="48" alt="Ollama" />
+    <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
+    <img src="https://cdn.simpleicons.org/trello/026AA7" height="48" alt="Trello" />
+  </p>
 </details>
 
 <details>
