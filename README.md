@@ -25,7 +25,6 @@
       <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" alt="Plotly" />
       <img src="https://camo.githubusercontent.com/001192898013bf8a59e113356db2eaca0032fe2337fca04795f47525afc81645/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38342f4d6174706c6f746c69625f69636f6e2e737667" width="48" height="48" alt="Matplotlib" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
       <img src="https://cdn.simpleicons.org/scrapy/60A839" height="48" alt="Scrapy" />
-
       <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
       <img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="48" height="48" alt="MySQL" data-canonical-src="https://techstack-generator.vercel.app/mysql-icon.svg" style="max-width: 100%; height: auto; max-height: 48px;; aspect-ratio: 48 / 48; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback">
       <img src="https://cdn.simpleicons.org/trello/026AA7" height="48" alt="Trello" />
