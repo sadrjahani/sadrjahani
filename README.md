@@ -9,7 +9,7 @@
 
 🔹 **Academically trained in Data Science** with 7+ years of hands-on experience in **NLP, LLMs (BERT, Gemini), and Deep Learning** 
 
-<details>
+
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
   <p align="left">
@@ -26,18 +26,10 @@
     <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
     <img src="https://cdn.simpleicons.org/trello/026AA7" height="48" alt="Trello" />
   </p>
-</details>
 
-<details>
-  <summary><b>:brain: &nbsp;AI Tools</b></summary>
-  <br/>
-    <p>
-         <img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
-         <img alt="Perplexity" src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F" />
-         <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-        <img alt="ChatGPT" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-    </p>
-</details>
+
+<summary><b>:brain: &nbsp;AI Tools</b></summary>
+
 
 
 
