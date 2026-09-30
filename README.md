@@ -31,10 +31,11 @@
   </p>
 
 
-<p>🧠 <b>LLM APIs I build with:</b> Gemini, [OpenAI], [Anthropic Claude] — for RAG pipelines, agents, and evaluation workflows.</p>
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" />
-<img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" />
-<img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Anthropic Claude" />
+<p>🧠 <b>LLM APIs I build with:</b> 
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" alt="Gemini" />Gemini, 
+    <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="OpenAI" />OpenAI,
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Anthropic Claude" /> Anthropic Claude — for RAG pipelines, agents, and evaluation workflows.
+</p>
 
 
 
