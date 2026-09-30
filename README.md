@@ -31,7 +31,7 @@
   </p>
 
 
-<summary><b>:brain: &nbsp;AI Tools</b></summary>
+<p>🧠 <b>LLM APIs I build with:</b> Gemini, [OpenAI], [Anthropic Claude] — for RAG pipelines, agents, and evaluation workflows.</p>
 
 
 
